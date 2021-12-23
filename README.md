@@ -2,7 +2,7 @@
 and I'm a programming enthusiast.
 
 # I mainly code in Java but...
-I know some basic **HTML** / **CSS** / **JS** / **PHP** stuff.
+I also know **Kotlin** as well as some basic **HTML** / **CSS** / **JS** / **PHP** stuff.
 
 # I'm currently working on...
 an upcomming Minecraft server [FireDOT](https://firedot.pl/) available for Polish community.
