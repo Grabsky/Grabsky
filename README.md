@@ -1,8 +1,7 @@
 # Hi, I'm [@Grabsky](https://github.com/Grabsky)...
-and I'm a programming enthusiast.
+I'm a programming enthusiast working with **JVM** languages since late 2019.
 
-# I mainly code in Java but...
-I also know **Kotlin** as well as some basic **HTML** / **CSS** / **JS** / **PHP** stuff.
+Currently working on an upcomming Minecraft server [FireDOT](https://firedot.pl/) available for Polish community.
 
-# I'm currently working on...
-an upcomming Minecraft server [FireDOT](https://firedot.pl/) available for Polish community.
+### Contact
+- **Discord:** grabsky#9321
